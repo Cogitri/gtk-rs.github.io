@@ -27,3 +27,4 @@ In this part we'll go deeper into the mechanisms of the `Gtk-rs` crates. If you'
  * [Upcast and downcast](/tuto/upcast_downcast).
  * [Glade](/tuto/glade).
  * [Cross compiling from linux to windows](/tuto/cross).
+ * [Cross compiling on linux to different arches](/tuto/cross-linux-arch)
